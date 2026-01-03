@@ -50,7 +50,114 @@
       "description": "Tajaajila fi hojii ergamaa buʼa qabeessa taʼee araara, lallaba Wangeelaa, fi walii-hubannaa amantoota gidduutti guddisuuf barattoota qopheessuu."
     }
   }
+},
+
+
+
+"programs": {
+  "title": "Sagantaalee Barnootaa",
+  "subtitle": "Sagantaalee bal’oo kaayyoo keessaniif qophaa’an keessaa filadhaa",
+
+  "bachelor": {
+    "title": "Sagantaalee Digrii",
+    "description": "Sagantaalee jalqabaa kan hoggantoota Kiristiyaanaa amantii irratti hundaa’an fi yaadaa qophaa’an guddisu.",
+    "learnMore": "Dabalataan Baradhaa"
+  },
+
+  "master": {
+    "title": "Sagantaalee  Maastersii",
+    "description": "Sagantaalee teolojiyaa ol’aanaa fi hoggansa tajaajilaaf kan abbootii amantii, barsiisota, fi hoggantoota Kiristiyaanaa bu’aa guddaa barbaadan qopheessu.",
+    "learnMore": "Dabalataan Baradhaa"
+  },
+
+  "diploma": {
+    "title": "Sagantaalee Dipiloomaa",
+    "description": "Sagantaa bal’oo qoʼannaa Kitaaba Qulqulluu, teolojiyaa sirnaawaa, fi hoggansa tajaajilaati.",
+    "learnMore": "Dabalataan Baradhaa"
+  },
+
+  "viewAll": "Sagantaalee Hunda Ilaalaa"
+},
+
+"academicStrategy": {
+  "title": "Tarsiimoo Barnootaa",
+  "subtitle": "Sagantaa leenjii teolojiyaa sirna qabeessa, ergama irratti xiyyeeffate",
+
+  "integratedLearning": {
+    "title": "Tarsiimoo Barnoota Walitti Fufiinsa Qabu",
+    "theologicalStudies": {
+      "title": "Qoʼannaa Teolojiyaa",
+      "description": "Leenjii bal’inaa teolojiyaa Kiristiyaanaa, bu’uura amantii, fi amantoota adda addaa irratti, sirrii fi iftoomina bu’uura amantii irratti xiyyeeffachuun, akkasumas muuxannoo hojii tajaajilaa waliin."
+    },
+    "apologetics": {
+      "title": "Ittisa Amantii fi Apolojetikii",
+      "description": "Leenjii addaa ittisa amantii Kiristiyaanaa, barattoota gaaffilee, dogoggora, fi qormaata teolojiyaa—addatti kan dhufe kan amantoota addunyaa irraa—deebisuuf qopheessu."
+    },
+    "mission": {
+      "title": "Ergamaa fi Hojii Tajaajilaa",
+      "description": "Hirmaannaa hojii ergamaa fi hojii hawaasa keessatti muuxannoo, akka odeeffannoo gahaa kennuu, aadaa hubachuu, fi tajaajila Wangeela irratti xiyyeeffate guddisu."
+    }
+  }
+},
+
+
+"cta": {
+  "title": "Imala Kee Eegaluu Qophiidhaa?",
+  "subtitle": "Barattoota dhibbootaan lakkaaʼaman kanneen mootummaa Waaqaaf buʼaa fiduuf qophaaʼaa jiranitti makamaa",
+  "applyNow": "Amma Iyyadhaa",
+  "requestInfo": "Odeeffannoo Gaafadhaa"
+},
+
+
+"about": {
+  "hero": {
+    "title": "Waaʼee Keenya",
+    "subtitle": "Dhugaa, Ergama, fi Ragaa Amantii Amanamaaaf Amantoota Qopheessuu"
+  },
+
+  "story": {
+    "title": "Seenaa Keenya",
+    "description": "Soors of Laayif Tiyooloojikaal Koolleejii dhaabbata teolojiyaa Kiristoos irratti hundaaʼe kan amantoota hubannoo gadi-fageenyaa barsiisaa amantii Kiristiyaanaa fi ogummaa hojiirra oolu ittisa amantii fi ergamaaf barbaachisu qopheessuuf of kenneedha. Koolleejichi naannoo barnootaa kan saayinsaawaa fi hafuuraa taʼe uuma; kunis barattoota yaada adda addaa addunyaa waliin yaadaan fi kabajaan mariʼachuu akka dandaʼan, addatti immoo teolojiyaa wal-bira qabuu fi marii amantii irratti xiyyeeffachuun qopheessa."
+  },
+
+  "missionVision": {
+    "mission": {
+      "title": "Ergama Keenya",
+      "description": "Ergamaan keenya barattoota akka qoratan, hubatan, fi buʼuura amantii Kiristiyaanaa sirriitti ibsan qopheessuu fi humneessuudha. Akkasumas sirna amantii biroo ogummaa, of-amantii, fi jaalala Kiristoos fakkaatuun waliin mariʼachuu akka dandaʼan gochuu dha. Nageenya, dhugaa, fi walii-hubannaa aadaa adda addaa gidduutti guddisuun, amantoota amantii isaanii Kitaaba Qulqulluu fi yaadaan ittisan horachuuf of kenneedha."
+    },
+    "vision": {
+      "title": "Mulʼata Keenya",
+      "description": "Soors of Laayif Tiyooloojikaal Koolleejii akka dhaabbata olaanaa barnoota teolojiyaa fi ittisa amantii Kiristiyaanaa keessatti beekamu, sadarkaa naannoo fi idil-addunyaatti beekamtii argatu taasisuuf mulʼata qabna. Mulʼanni keenya hoggantoota tajaajilaa dhugaa Kitaaba Qulqulluu eegan, jaalala Kiristoos mulʼisan, fi addunyaa aadaa fi amantii hedduu qabu keessatti gahee hiika qabu bahatan horachuudha."
+    }
+  },
+
+  "coreObjectives": {
+    "title": "Kaayyoo Ijoo Keenya",
+    "subtitle": "Kaayyoon kunneen waan hunda hojjennaannu ni qajeelchu",
+
+    "items": {
+      "theologicalEducation": {
+        "title": "Barnoota Teolojiyaa Guutuu",
+        "description": "Leenjii cimaa qoʼannaa Kitaaba Qulqulluu, teolojiyaa sirnaawaa, amantii wal-bira qabuu, fi ittisa amantiitiin kennamu."
+      },
+      "spiritualFormation": {
+        "title": "Guddina Hafuuraa fi Duuka Buʼummaa",
+        "description": "Gorsaa, kadhannaa, waaqeffannaa, fi guddina hafuuraa hawaasa irratti hundaaʼe."
+      },
+      "interfaithEngagement": {
+        "title": "Hirmaannaa Aadaa fi Amantii Addaa Addaa",
+        "description": "Amantii fi hojii amantoota addunyaa hubachuun marii kabajaa guddisuu."
+      },
+      "missionLeadership": {
+        "title": "Qophii Ergamaa fi Hoggansaa",
+        "description": "Hoggantoota lallaba Wangeelaa, araaraa, fi tajaajila aadaa ceʼumsaa qopheessuu."
+      }
+    }
+  }
 }
+
+
+
 
 
 
