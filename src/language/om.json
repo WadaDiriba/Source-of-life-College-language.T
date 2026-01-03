@@ -154,7 +154,122 @@
       }
     }
   }
+},
+
+"admissions": {
+  "hero": {
+    "title": "Galmee Barattootaa",
+    "subtitle": "Harʼa imala kee gara buʼaa Mootummaa Waaqaatti jalqabi"
+  },
+
+  "academicStrategy": {
+    "title": "Tarsiimoo Barnootaa",
+    "subtitle": "Sagantaa barnoota tiyooleejii kaayyoo ergamaa irratti xiyyeeffate",
+
+    "integratedLearning": {
+      "title": "Sirna Barnootaa Walitti Makame",
+
+      "theologicalStudies": {
+        "title": "Barnoota Tiyooleejii",
+        "description": "Barnoota gadi fageenya qabu tiyooleejii Kiristaanaa, barsiisa Macaafa Qulqulluu, fi amantiiwwan addunyaa wal bira qabee barachuun, sirrii barsiisa amantii fi dhugaa Macaafa Qulqulluu irratti xiyyeeffata; akkasumas tajaajila hojii irraa barachuun walitti makama."
+      },
+
+      "apologetics": {
+        "title": "Apologetikii fi Ittisa Amantii",
+        "description": "Leenjii addaa apologetikii Kiristaanaa kan barattoota yaada mormii, hubannoo dogoggoraa, fi rakkoolee tiyooleejii deebisuuf qopheessu; addatti barsiisa amantiiwwan addunyaa irraa maddan irratti xiyyeeffata."
+      },
+
+      "mission": {
+        "title": "Ergamaa fi Tajaajila Hojii",
+        "description": "Hirmaannaa hojii ergamaa fi tajaajila hawaasaa kan qunnamtii buʼa qabeessa, hubannoo aadaa, fi tajaajila Wangeela irratti hundaaʼe hawaasa adda addaa keessatti horatu."
+      }
+    }
+  },
+
+  "applicationForm": {
+    "title": "Unka Iyyannoo",
+    "subtitle": "Adeemsa iyyannoo kee jalqabuuf unka armaan gadii guuti",
+
+    "sections": {
+      "personalInfo": "Odeeffannoo Dhuunfaa",
+      "programSelection": "Filannoo Sagantaa"
+    },
+
+    "fields": {
+      "firstName": "Maqaa Duraa",
+      "lastName": "Maqaa Abbaa",
+      "email": "Teessoo Imeelii",
+      "phone": "Lakkoofsa Bilbilaa",
+      "program": "Sagantaa Filadhu",
+      "startDate": "Guyyaa Jalqabaa Filatame",
+      "terms": "Haala fi dambiiwwan walii galee odeeffannoon kennames sirrii taʼuu isaa nan mirkaneessa"
+    },
+
+    "placeholders": {
+      "program": "Sagantaa filadhu..."
+    },
+
+    "programGroups": {
+      "diploma": "Sagantaalee Diiplooma",
+      "bachelor": "Sagantaalee Digirii Jalqabaa",
+      "master": "Sagantaalee Digirii Olaanaa"
+    },
+
+    "buttons": {
+      "submit": "Iyyannoo Ergi"
+    }
+  }
+},
+
+
+
+
+"books": {
+  "hero": {
+    "title": "Mana Kitaabaa",
+    "subtitle": "Qabeenya Macaafa Qulqulluu fi kitaabota tajaajilaa keenya argadhaa"
+  },
+
+  "search": {
+    "placeholder": "Kitaabota barbaadi..."
+  },
+
+  "categories": {
+    "all": "Hunda",
+    "theology": "Tiyooleejii",
+    "graceTruth": "Ayyaanaa fi Dhugaa",
+    "leadership": "Hoggansa",
+    "prayer": "Kadhannaa",
+    "spiritualGrowth": "Guddina Hafuuraa",
+    "worship": "Sagadaa",
+    "counseling": "Gorsa",
+    "missions": "Ergamaa"
+  },
+
+  "results": {
+    "showing": "Kitaabota {{from}}–{{to}} keessaa {{total}} agarsiisaa jira",
+    "empty": {
+      "title": "Kitaabonni hin argamne"
+    }
+  },
+
+  "book": {
+    "by": "kan barreesse",
+    "pages": "Fuula {{count}}",
+    "download": "PDF Buufadhu"
+  },
+
+  "pagination": {
+    "previous": "Dura",
+    "next": "Itti Aanu"
+  }
 }
+
+
+
+
+
+
 
 
 
