@@ -1,0 +1,554 @@
+{
+  "home": {
+    "hero": {
+      "welcome": "Welcome to Source of Life Theological College",
+      "title": "Equipping Believers for Truth, Mission, and Faithful Witness",
+      "subtitle": "Christ-centered theological education with strong emphasis on Christian apologetics, mission, and interfaith engagement.",
+      "applyNow": "Apply Now",
+      "viewPrograms": "View Programs"
+    },
+
+    "mission": {
+      "title": "Our Mission",
+      "description": "Our mission is to equip and empower students to explore, understand, and clearly articulate the core doctrines of the Christian faith while engaging other belief systems with wisdom, confidence, and Christ-like compassion. We are committed to raising believers who can defend their faith biblically and intellectually while promoting peace, truth, and understanding across cultures."
+    },
+
+    "vision": {
+      "title": "Our Vision",
+      "description": "We envision Source of Life Theological College as a leading institution in theological education and Christian apologetics—recognized locally and internationally for academic excellence, spiritual formation, and transformative community impact. Our vision is to develop servant leaders who uphold biblical truth, demonstrate Christ’s love, and contribute meaningfully to a multicultural and multi-faith world."
+    },
+
+    "goals": {
+      "title": "Goals",
+      "description": "The primary goal of the College is to develop spiritually grounded and intellectually equipped Christian leaders who are deeply rooted in biblical theology and proficient in apologetics. Special emphasis is placed on preparing students to respond thoughtfully and respectfully to questions and challenges related to Christian faith, particularly in dialogue with World Religions theology."
+    },
+
+    "objectives": {
+      "title": "Our Objectives",
+      "items": {
+        "theologicalEducation": {
+          "title": "Comprehensive Theological Education",
+          "description": "To deliver a rigorous and balanced curriculum in biblical studies, systematic theology, comparative religion, and Christian apologetics."
+        },
+        "spiritualFormation": {
+          "title": "Spiritual Formation and Discipleship",
+          "description": "To nurture spiritual maturity through mentorship, prayer, worship, and active participation in Christian community life."
+        },
+        "interfaithEngagement": {
+          "title": "Cultural and Interfaith Engagement",
+          "description": "To equip students with a deep understanding of World Religions beliefs and practices, fostering respectful dialogue and informed engagement."
+        },
+        "missionLeadership": {
+          "title": "Mission and Leadership Preparation",
+          "description": "To prepare students for effective ministry and mission work that promotes reconciliation, evangelism, and interfaith understanding."
+        }
+      }
+    },
+
+    "programs": {
+      "title": "Academic Programs",
+      "subtitle": "Choose from our comprehensive range of programs designed for your calling",
+
+      "bachelor": {
+        "title": "Bachelor of Theology",
+        "description": "Undergraduate programs developing spiritually grounded and intellectually equipped Christian leaders.",
+        "learnMore": "Learn More"
+      },
+
+      "master": {
+        "title": "Master Degree Programs",
+        "description": "Advanced theological and ministry leadership programs for pastors, teachers, and Christian leaders seeking deeper impact.",
+        "learnMore": "Learn More"
+      },
+
+      "diploma": {
+        "title": "Diploma Programs",
+        "description": "Comprehensive program in biblical studies, systematic theology, and ministry leadership.",
+        "learnMore": "Learn More"
+      },
+
+      "viewAll": "View All Programs"
+    },
+
+    "academicStrategy": {
+      "title": "Academic Strategy",
+      "subtitle": "A structured, mission-focused theological training program",
+
+      "integratedLearning": {
+        "title": "Integrated Learning Approach",
+        "theologicalStudies": {
+          "title": "Theological Studies",
+          "description": "In-depth instruction in Christian theology, biblical doctrine, and comparative religion, emphasizing doctrinal clarity and biblical accuracy, combined with practical ministry exposure."
+        },
+        "apologetics": {
+          "title": "Apologetics & Faith Defense",
+          "description": "Specialized training in Christian apologetics, equipping students to respond to objections, misconceptions, and theological challenges—particularly those arising from World Religions teachings."
+        },
+        "mission": {
+          "title": "Mission & Practical Ministry",
+          "description": "Hands-on mission engagement and outreach activities designed to develop effective communication, cultural sensitivity, and gospel-centered service in diverse communities."
+        }
+      }
+    },
+
+    "cta": {
+      "title": "Ready to Begin Your Journey?",
+      "subtitle": "Join hundreds of students who are being equipped for Kingdom impact",
+      "applyNow": "Apply Now",
+      "requestInfo": "Request Information"
+    }
+  },
+  
+  "about": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "Equipping Believers for Truth, Mission, and Faithful Witness"
+    },
+
+    "story": {
+      "title": "Our Story",
+      "description": "Source of Life Theological College is a Christ-centered theological institution committed to equipping believers with a profound understanding of Christian doctrine and the practical skills required for effective apologetics and mission. The College cultivates a scholarly and spiritual learning environment that prepares students to engage thoughtfully and respectfully with diverse worldviews, with particular attention to comparative theology and faith-based dialogue."
+    },
+
+    "missionVision": {
+      "mission": {
+        "title": "Our Mission",
+        "description": "Our mission is to equip and empower students to explore, understand, and clearly articulate the core doctrines of the Christian faith while engaging other belief systems with wisdom, confidence, and Christ-like compassion. We are committed to raising believers who can defend their faith biblically and intellectually while promoting peace, truth, and understanding across cultures."
+      },
+      "vision": {
+        "title": "Our Vision",
+        "description": "We envision Source of Life Theological College as a leading institution in theological education and Christian apologetics—recognized locally and internationally for academic excellence, spiritual formation, and transformative community impact. Our vision is to develop servant leaders who uphold biblical truth, demonstrate Christ’s love, and contribute meaningfully to a multicultural and multi-faith world."
+      }
+    },
+
+    "coreObjectives": {
+      "title": "Our Core Objectives",
+      "subtitle": "These objectives guide everything we do",
+
+      "items": {
+        "theologicalEducation": {
+          "title": "Comprehensive Theological Education",
+          "description": "Rigorous training in biblical studies, systematic theology, comparative religion, and apologetics."
+        },
+        "spiritualFormation": {
+          "title": "Spiritual Formation & Discipleship",
+          "description": "Mentorship, prayer, worship, and community-based spiritual growth."
+        },
+        "interfaithEngagement": {
+          "title": "Cultural & Interfaith Engagement",
+          "description": "Understanding World Religions beliefs and practices to foster respectful dialogue."
+        },
+        "missionLeadership": {
+          "title": "Mission & Leadership Preparation",
+          "description": "Preparing leaders for evangelism, reconciliation, and cross-cultural ministry."
+        }
+      }
+    }
+  },
+
+  
+  "admissions": {
+    "hero": {
+      "title": "Admissions",
+      "subtitle": "Begin your journey toward Kingdom impact today"
+    },
+
+    "academicStrategy": {
+      "title": "Academic Strategy",
+      "subtitle": "A structured, mission-focused theological training program",
+
+      "integratedLearning": {
+        "title": "Integrated Learning Approach",
+
+        "theologicalStudies": {
+          "title": "Theological Studies",
+          "description": "In-depth instruction in Christian theology, biblical doctrine, and comparative religion, emphasizing doctrinal clarity and biblical accuracy, combined with practical ministry exposure."
+        },
+
+        "apologetics": {
+          "title": "Apologetics & Faith Defense",
+          "description": "Specialized training in Christian apologetics, equipping students to respond to objections, misconceptions, and theological challenges—particularly those arising from World Religions teachings."
+        },
+
+        "mission": {
+          "title": "Mission & Practical Ministry",
+          "description": "Hands-on mission engagement and outreach activities designed to develop effective communication, cultural sensitivity, and gospel-centered service in diverse communities."
+        }
+      }
+    },
+
+    "applicationForm": {
+      "title": "Application Form",
+      "subtitle": "Fill out the form below to begin your application process",
+
+      "sections": {
+        "personalInfo": "Personal Information",
+        "programSelection": "Program Selection"
+      },
+
+      "fields": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "program": "Select Program",
+        "startDate": "Preferred Start Date",
+        "terms": "I agree to the terms and conditions and confirm that the information provided is accurate"
+      },
+
+      "placeholders": {
+        "program": "Choose a program..."
+      },
+
+      "programGroups": {
+        "diploma": "Diploma Programs",
+        "bachelor": "Bachelor Degree Programs",
+        "master": "Master Degree Programs"
+      },
+
+      "buttons": {
+        "submit": "Submit Application"
+      }
+    }
+  },
+
+  
+  "books": {
+    "hero": {
+      "title": "Books Library",
+      "subtitle": "Access our collection of biblical resources and ministry books"
+    },
+
+    "search": {
+      "placeholder": "Search books..."
+    },
+
+    "categories": {
+      "all": "All",
+      "theology": "Theology",
+      "graceTruth": "Grace & Truth",
+      "leadership": "Leadership",
+      "prayer": "Prayer",
+      "spiritualGrowth": "Spiritual Growth",
+      "worship": "Worship",
+      "counseling": "Counseling",
+      "missions": "Missions"
+    },
+
+    "results": {
+      "showing": "Showing {{from}}–{{to}} of {{total}} books",
+      "empty": {
+        "title": "No books found"
+      }
+    },
+  
+    "book": {
+      "by": "by",
+      "pages": "{{count}} pages",
+      "download": "Download PDF"
+    },
+
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    }
+  
+   {
+  "contact": {
+    "hero": {
+      "title": "Get in Touch",
+      "subtitle": "We'd love to hear from you. Reach out with questions"
+    },
+
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "label": "Address",
+        "value": "Jamo Public Transport Service, Floor 2, Addis Ababa, Ethiopia"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+251909330099"
+      },
+      "email": {
+        "label": "Email",
+        "value": "info@sourceoflifecollege.com"
+      },
+      "hours": {
+        "label": "Office Hours",
+        "weekdays": "Monday - Friday: 8:00 AM - 5:00 PM",
+        "saturday": "Saturday: 9:00 AM - 1:00 PM",
+        "sunday": "Sunday: Closed"
+      }
+    },
+
+    "form": {
+      "title": "Send Us a Message",
+      "fields": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "subject": "Subject",
+        "message": "Message"
+      },
+      "placeholders": {
+        "subject": "Select a subject...",
+        "message": "Tell us how we can help you..."
+      },
+      "subjects": {
+        "general": "General Inquiry",
+        "admissions": "Admissions Question",
+        "programs": "Program Information",
+        "technical": "Technical Support",
+        "other": "Other"
+      },
+      "submit": "Send Message",
+      "required": "*"
+    },
+
+    "campus": {
+      "title": "Visit Our Campus",
+      "subtitle": "Schedule a campus tour to experience our facilities and meet our community",
+      "imageAlt": "Campus Location"
+    }
+  },
+
+  "faq":{
+  "hero": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our programs, admissions, and student life"
+  },
+
+  "sections": [
+    {
+      "category": "General",
+      "questions": [
+        {
+          "q": "What is Source of Life Theological College?",
+          "a": "Source of Life Theological College is a Bible college dedicated to equipping believers with solid biblical foundation and practical ministry skills for effective Kingdom service."
+        },
+        {
+          "q": "Is Source of Life Theological College accredited?",
+          "a": "Yes, we are accredited by recognized theological accreditation bodies. Our programs meet high academic and spiritual standards."
+        },
+        {
+          "q": "What makes Source of Life Theological College different from other Bible colleges?",
+          "a": "We combine rigorous biblical scholarship with practical ministry experience, emphasizing both spiritual formation and academic excellence in a supportive community environment."
+        }
+      ]
+    },
+    {
+      "category": "Programs & Courses",
+      "questions": [
+        {
+          "q": "What programs do you offer?",
+          "a": "We offer Bachelor of Theology, Diploma in Ministry, and Masters Degree programs."
+        },
+        {
+          "q": "What languages are courses offered in?",
+          "a": "Programs are offered in English, Afaan Oromo, and Amharic."
+        },
+        {
+          "q": "How long does it take to complete a program?",
+          "a": "Bachelor programs take 4 years, Diploma programs take 2 years."
+        }
+      ]
+    },
+    {
+      "category": "Admissions",
+      "questions": [
+        {
+          "q": "What are the admission requirements?",
+          "a": "Requirements include a high school diploma, statement of faith, recommendation letters, recent photograph, and ID copy."
+        },
+        {
+          "q": "When can I apply?",
+          "a": "Applications are accepted year-round with intakes in January, May, and September."
+        },
+        {
+          "q": "Is there an application fee?",
+          "a": "Yes, a non-refundable application processing fee is required."
+        }
+      ]
+    },
+    {
+      "category": "Tuition & Financial Aid",
+      "questions": [
+        {
+          "q": "How much does it cost to attend?",
+          "a": "Tuition varies by program. Please contact admissions for details."
+        },
+        {
+          "q": "Can I pay tuition in installments?",
+          "a": "Yes, flexible payment plans are available."
+        },
+        {
+          "q": "Are there additional costs beyond tuition?",
+          "a": "Additional costs may include books, accommodation, and graduation fees."
+        }
+      ]
+    }
+  ],
+
+  "cta": {
+    "title": "Still Have Questions?",
+    "description": "We're here to help! Contact our admissions team for personalized assistance.",
+    "contact": "Contact Us",
+    "apply": "Apply Now"
+  }
+},
+"partnership": {
+  "hero": {
+    "title": "🤝 Theology & Mission Partnership",
+    "subtitle": "Partner with Source of Life College to advance biblical theology, mission, and gospel-centered impact locally and globally."
+  },
+
+  "steps": {
+    "title": "How to Become a Member / Partner",
+    "items": [
+      "Submit Application Form",
+      "Pay Application / Partnership Fee",
+      "Upload Payment Proof",
+      "Review & Approval",
+      "Receive Membership Certificate"
+    ]
+  },
+
+  "certificate": {
+    "title": "Membership Certificate",
+    "items": [
+      "Ethiopian Members → National Certificate",
+      "International Members → International Certificate",
+      "Validity: One Academic Term / Year"
+    ]
+  },
+
+  "membership": {
+    "title": "Maintaining Active Membership",
+    "items": [
+      "Timely payment of fees",
+      "Submission of required reports",
+      "Alignment with mission and values"
+    ]
+  },
+
+  "paymentPlans": {
+    "title": "Partnership Payment Plans",
+    "plans": [
+      {
+        "title": "Two-Year Plan",
+        "values": ["10,000", "5,000"]
+      },
+      {
+        "title": "One-Year Plan",
+        "values": ["10,000", "5,000", "2,000", "1,000"]
+      },
+      {
+        "title": "Six-Month Plan",
+        "values": ["5,000", "2,000", "1,000", "500"]
+      }
+    ]
+  },
+
+  "form": {
+    "title": "Request Membership Form & Information",
+    "description": "Please fill out the form below to request information concerning membership. We will email you a packet of information. Once your form and the appropriate fees are received, a Member’s Certificate will be issued.",
+    "fields": {
+      "fullName": "Full Name",
+      "firstName": "First",
+      "lastName": "Last",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "country": "Country",
+      "membershipRequest": "Membership Request",
+      "membershipPlaceholder": "Briefly explain your interest in membership and partnership..."
+    },
+    "submit": "Submit Membership Request"
+  },
+
+  "refund": {
+    "title": "Refund Policy",
+    "description": "Applications not approved will receive a full refund using the original payment method where possible."
+  }
+
+  "programs":{
+  "hero": {
+    "title": "Academic Programs",
+    "subtitle": "Christ-centered theological education equipping believers for truth, mission, and leadership"
+  },
+
+  "diploma": {
+    "title": "Diploma Programs",
+    "description": "Focused theological and ministry training with strong emphasis on biblical foundations and Christian apologetics.",
+    "cardDescription": "Structured training designed to equip students with sound biblical understanding, ministry skills, and confidence in faith defense.",
+    "apply": "Apply Now",
+    "programs": [
+      "Diploma in Biblical Theology",
+      "Diploma in Evangelism and Mission",
+      "Diploma in Christian Apologetics"
+    ]
+  },
+
+  "bachelor": {
+    "title": "Bachelor’s Degree Programs",
+    "description": "Undergraduate programs developing spiritually grounded and intellectually equipped Christian leaders.",
+    "cardDescription": "Comprehensive theological education integrating biblical studies, leadership development, and practical ministry application.",
+    "apply": "Apply →",
+    "programs": [
+      "Bachelor of Biblical Theology",
+      "Bachelor of Church Administration and Management",
+      "Bachelor of Christian Ethics and Management",
+      "Bachelor of Christian Entrepreneurship Management",
+      "Bachelor of Christian Ministry and Leadership",
+      "Bachelor of Evangelism and Discipleship",
+      "Bachelor of Christian Education",
+      "Bachelor of Church Planting and Growth",
+      "Bachelor of Pastoral Theology",
+      "Bachelor of Evangelism and Mission",
+      "Bachelor of Christian Performing Arts",
+      "Bachelor of Applied Theology and Christian Performing Arts"
+    ]
+  },
+
+  "master": {
+    "title": "Master’s Degree Programs (MA)",
+    "description": "Advanced theological and leadership training for pastors, educators, missionaries, and ministry leaders.",
+    "cardDescription": "Graduate-level theological education emphasizing research, leadership excellence, apologetics, and mission impact.",
+    "apply": "Apply Now",
+    "programs": [
+      "Master of Biblical Theology",
+      "Master of Church Administration and Management",
+      "Master of Christian Ethics and Management",
+      "Master of Christian Entrepreneurship Management",
+      "Master of Christian Ministry and Leadership",
+      "Master of Evangelism and Discipleship",
+      "Master of Christian Education",
+      "Master of Church Planting and Growth",
+      "Master of Pastoral Theology",
+      "Master of Evangelism and Mission",
+      "Master of Christian Performing Arts",
+      "Master of Applied Theology and Christian Performing Arts"
+    ]
+  }
+},
+"header": {
+    "home": "Home",
+    "about": "About",
+    "programs": "Programs",
+    "books": "Books",
+    "partnership": "Partnership",
+    "contact": "Contact",
+    "applyNow": "Apply Now"
+  }
+
+
+}
+
+
+  
+
+
+
+
+}

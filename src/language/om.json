@@ -1,0 +1,59 @@
+ {
+ 
+ 
+ "home": {
+  "hero": {
+    "welcome": "Baga gara dhuftan",
+    "title": "Dhugaa, Ergama, fi Ragaa Amantii Amanamaaaf Amantoota Qopheessuu",
+    "subtitle": "Barnoota teolojiyaa Kiristoos irratti hundaaʼe, kan ittisa amantii Kiristiyaanaa, ergama, fi walii-hirmaannaa amantoota gidduutti xiyyeeffannaa cimaa qabu.",
+    "applyNow": "Amma Iyyadhaa",
+    "viewPrograms": "Sagantaalee Ilaalaa"
+  },
+
+
+
+
+  "mission": {
+  "title": "Ergama Keenya",
+  "description": "Ergamaan keenya barattoota akka hubatan, qoratan, fi sirriitti ibsan bu’uura amantii Kiristiyaanaa qopheessuu fi humneessuudha. Akkasumas sirna amantii biroo ogummaa, of-amantii, fi jaalala Kiristoos fakkaatuun waliin mari’achuu akka danda’an gochuu dha. Nageenya, dhugaa, fi walii-hubannaa aadaa adda addaa gidduutti guddisuun amantoota amantii isaanii Kitaaba Qulqulluu fi yaada sirrii irratti ittisan guddisuuf of kenninee hojjenna."
+},
+
+"vision": {
+  "title": "Mul’ata Keenya",
+  "description": "Soors of Laayif Tiyooloojikaal Koolleejii akka dhaabbata olaanaa barnoota tiyolojawaa fi ittisa amantii Kiristiyaanaa keessatti beekamu, sadarkaa biyyaalessaa fi idil-addunyaatti beekamtii argatu taasisuuf mul’ata qabna. Mul’anni keenya hoggantoota tajaajilaa dhugaa Kitaaba Qulqulluu irratti dhaabbatan, jaalala Kiristoos agarsiisan, fi addunyaa aadaa fi amantii hedduu qabu keessatti gahee hiika qabu bahatan horachuudha."
+},
+
+"goals": {
+  "title": "Kaayyoo",
+  "description": "Kaayyoon guddaan Koolleejichaa hoggantoota Kiristiyaanaa amantii isaanii keessatti gadi-fageenyaan hundaa’an, yaadaan immoo qophaa’an horachuudha. Barattoonni akka gaaffilee fi qormaata amantii Kiristiyaanaa waliin walqabatan, addatti immoo marii teolojiyaa amantoota addunyaa waliin adeemsifamu sirriitti, kabajaa fi yaadaan deebisuu danda’an qophii argatuu irratti xiyyee"
+
+},
+
+
+"objectives": {
+  "title": "Kaayyoo Keenya",
+  "items": {
+    "theologicalEducation": {
+      "title": "Barnoota Teolojiyaa Guutuu",
+      "description": "Qophii barnootaa cimaa fi madaalawaa kan qoʼannaa Kitaaba Qulqulluu, teolojiyaa sirnaawaa, amantii wal-bira qabuu, fi ittisa amantii Kiristiyaanaa hammatu kennuu."
+    },
+    "spiritualFormation": {
+      "title": "Guddina Hafuuraa fi Barnoota Duuka Buʼummaa",
+      "description": "Gorsaa, kadhannaa, waaqeffannaa, fi hirmaannaa jireenya hawaasa Kiristiyaanaa keessatti hojiirra ooluun guddina hafuuraa guddisuu."
+    },
+    "interfaithEngagement": {
+      "title": "Hirmaannaa Aadaa fi Amantii Addaa Addaa",
+      "description": "Amantii fi hojii amantoota addunyaa irratti hubannoo gadi-fageenyaan barattoota qopheessuun, marii kabajaa fi hubannoo irratti hundaaʼe guddisuu."
+    },
+    "missionLeadership": {
+      "title": "Qophii Ergamaa fi Hoggansaa",
+      "description": "Tajaajila fi hojii ergamaa buʼa qabeessa taʼee araara, lallaba Wangeelaa, fi walii-hubannaa amantoota gidduutti guddisuuf barattoota qopheessuu."
+    }
+  }
+}
+
+
+
+
+ }
+ }
